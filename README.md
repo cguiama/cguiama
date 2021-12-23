@@ -10,6 +10,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" img align="center" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" img align="center" />
  </div>
+</a>
 
  ##
 - I've been working with <a href="https://www.behance.net/inside3d" target="_blank"> Archviz </a> for the last 10 years but I've always been interested in coding and decided to finally change my career;
