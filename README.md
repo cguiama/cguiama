@@ -9,4 +9,4 @@
   
  ### Technologies and Tools
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="40" height="40" />
