@@ -1,9 +1,7 @@
-name: Generate Datas
+name: main
 
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  
+on: [push]
+
  jobs:
   build:
     name: Jobs to update datas
