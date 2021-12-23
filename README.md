@@ -15,7 +15,6 @@
  ##
  
 - I've been working with <a href="https://www.behance.net/inside3d" target="_blank"> Archviz </a> for the last 10 years but I've always been interested in coding and decided to finally change my career;
-- I'm currently living in São Paulo;
 - Currently learning Git, C and Java at <a href="https://www.alura.com.br/" target="_blank">Alura</a> and studying Systems Analysis and Development at <a href="https://loja.anhembionline.com.br/graduacao/analise-e-desenvolvimento-de-sistemas-tecnologia-ead" target="_blank">Anhembi Morumbi University</a>;
 
 ## University and Courses
