@@ -5,7 +5,6 @@
 - All my life, I've been working with archviz --> www.behance.com/inside3d but I've always been interested in coding and i decided to work in a broader market that will make it possible to fly even higher;
 - I currently live in São Paulo and as I study remotely, I'm available to travel;
 
-  
  ### Learning Technologies and Tools
   
 <a href = "mailto:cguiama@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="40" height="40" />
@@ -22,6 +21,4 @@
 </div>
 
   
-![github contribution grid snake animation](https://raw.githubusercontent.com/cguiama/cguiama/output/github-contribution-grid-snake.svg)
-  
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+![Snake animation](https://github.com/cguiama/cguiama/blob/output/github-contribution-grid-snake.svg)
