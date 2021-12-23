@@ -13,9 +13,8 @@ on:
 
     steps:
         # Snake Animation
-      - name: generate-snake-game-from-github-contribution-grid
         id: snake-gif
-        uses: Platane/snk@master
+      - uses: Platane/snk@master
         with:
           github_user_name: cguiama
           svg_out_path: dist/github-contribution-grid-snake.svg
