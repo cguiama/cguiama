@@ -12,6 +12,7 @@ on:
     needs: build-docker-image
 
     steps:
+        # Snake Animation
       - name: generate-snake-game-from-github-contribution-grid
         id: snake-gif
         uses: Platane/snk@master
