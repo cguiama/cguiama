@@ -20,7 +20,7 @@
 
  ##
  
-- I've been working with <a href="https://www.behance.net/inside3d" target="_blank"> Archviz </a> for the last 10 years and since 2018 I've been interested in learn code, so I decided to finally change my career;
+- I've been working with <a href="https://www.behance.net/inside3d" target="_blank"> Archviz </a> for the last 10 years and since 2018 I've been interested in learn code, so I decided to finally change my career in 2022;
 - Learning JavaScript, C and Java at <a href="https://www.alura.com.br/" target="_blank">Alura</a>;
 - Studying Systems Analysis and Development at <a href="https://loja.anhembionline.com.br/graduacao/analise-e-desenvolvimento-de-sistemas-tecnologia-ead" target="_blank">Anhembi Morumbi University</a>;
 
