@@ -3,20 +3,22 @@
 <div>
   <a href="https://www.linkedin.com/in/guilherme-castro-dev/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cguiama&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  </a>
+   <a href="https://github.com/cguiama?tab=repositories"> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cguiama&layout=compact&langs_count=16&theme=blue-green"/>
 </div>
   
  </a>
- <h4>Currently Learning:</h4>
- <a href="https://github.com/cguiama">
-<div style="display: inline_block"><br>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" img align="center" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" img align="center" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="30" img align="center" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" img align="center" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" img align="center" /> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="30" img align="center" />
- </div>
+ <h2>Currently Learning:</h2>
+   <a href="https://github.com/cguiama">
+   <div style="display: inline_block"><br>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" img align="center" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" img align="center" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="30" img align="center" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" img align="center" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" img align="center" /> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="30" img align="center" />
+   </div>
 </a>
 
  ##
