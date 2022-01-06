@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://www.linkedin.com/in/guilherme-castro-dev/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cguiama&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cguiama&layout=compact&langs_count=16&theme=outrun"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cguiama&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cguiama&layout=compact&langs_count=16&theme=blue-green"/>
 </div>
   
  </a>
