@@ -1,10 +1,11 @@
 ## Hello there! Welcome to my Github
 
 <div>
- <a href="https://github.com/cguiama">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cguiama&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cguiama&layout=compact&langs_count=7&theme=apprentice"/>
+  <a href="https://www.linkedin.com/in/guilherme-castro-dev/">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cguiama&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cguiama&layout=compact&langs_count=16&theme=outrun"/>
 </div>
+  
  </a>
  <h4>Currently Learning:</h4>
  <a href="https://github.com/cguiama">
