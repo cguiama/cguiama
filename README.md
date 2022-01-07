@@ -38,9 +38,7 @@
 <h3> Contributions: </h3>
 
 
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/cguiama/cguiama/output/github-contribution-grid-snake.svg)
-
- ##
+  ##
 <a href="https://www.linkedin.com/in/guilherme-castro-dev/" target="blank">
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
