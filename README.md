@@ -35,8 +35,6 @@
 <div>
 <a href="https://portal.anhembi.br" target="_blank"><img src="https://loja.anhembionline.com.br/media/logo/stores/7/ANHEMBI.png" width="180" height="50" /></a>      <a href="https://www.alura.com.br/" target="_blank"><img src="https://i.pinimg.com/originals/49/72/6e/49726e65f6b35c2e8e366a16c0734fb7.png" width="80" height="50" target="_blank"></a>
 </br></br>
-<h3> Contributions: </h3>
-
 
   ##
 <a href="https://www.linkedin.com/in/guilherme-castro-dev/" target="blank">
