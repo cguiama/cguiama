@@ -1,7 +1,7 @@
 ## Hello there! Welcome to my Github
 
 <div>
-  <a href="https://www.linkedin.com/in/guilherme-castro-dev/">
+  <a target="_blank" href="https://www.linkedin.com/in/guilherme-castro-dev/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cguiama&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   </a>
    <a href="https://github.com/cguiama?tab=repositories"> 
@@ -10,7 +10,7 @@
   
  </a>
  <h2>Currently Learning:</h2>
-   <a href="https://github.com/cguiama">
+   <a target="_blank" href="https://github.com/cguiama">
    <div style="display: inline_block"><br>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" img align="center" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" img align="center" />
@@ -33,10 +33,10 @@
 ## University and Courses
 
 <div>
-<a href="https://portal.anhembi.br" target="_blank"><img src="https://loja.anhembionline.com.br/media/logo/stores/7/ANHEMBI.png" width="180" height="50" /></a>      <a href="https://www.alura.com.br/" target="_blank"><img src="https://i.pinimg.com/originals/49/72/6e/49726e65f6b35c2e8e366a16c0734fb7.png" width="80" height="50" target="_blank"></a>
+<a target="_blank" href="https://portal.anhembi.br" target="_blank"><img src="https://loja.anhembionline.com.br/media/logo/stores/7/ANHEMBI.png" width="180" height="50" /></a>      <a target="_blank" href="https://www.alura.com.br/" target="_blank"><img src="https://i.pinimg.com/originals/49/72/6e/49726e65f6b35c2e8e366a16c0734fb7.png" width="80" height="50" ></a>
 </br></br>
 
   ##
-<a href="https://www.linkedin.com/in/guilherme-castro-dev/" target="blank">
+<a target="_blank" href="https://www.linkedin.com/in/guilherme-castro-dev/" target="blank">
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
