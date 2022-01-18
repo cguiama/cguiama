@@ -10,7 +10,7 @@
   
  </a>
  <h2>Currently Learning:</h2>
-   <a target="_blank" href="https://github.com/cguiama">
+   <a target="_blank" href="https://github.com/cguiama?tab=repositories">
    <div style="display: inline_block"><br>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" img align="center" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" img align="center" />
@@ -23,12 +23,10 @@
 
  ##
  
-- I have been working with <a href="https://www.behance.net/inside3d" target="_blank"> Archviz </a> for the last 10 years. I've been interested in learn code since 2018 , so I decided to finally change my career in 2022 and started studying;
-- Learning JavaScript, C and Java at <a href="https://www.alura.com.br/" target="_blank">Alura</a>;
-- Studying Systems Analysis and Development at <a href="https://loja.anhembionline.com.br/graduacao/analise-e-desenvolvimento-de-sistemas-tecnologia-ead" target="_blank">Anhembi Morumbi University</a>;
+- I have been working with <a target="_blank" href="https://www.behance.net/inside3d" target="_blank"> Archviz </a> for the last 10 years. I've been interested in learn code since 2018 , so I decided to finally change my career in 2022 and started studying;
+- Learning JavaScript, C and Java at <a target="_blank" href="https://www.alura.com.br/" target="_blank">Alura</a>;
+- Studying Systems Analysis and Development at <a target="_blank" href="https://loja.anhembionline.com.br/graduacao/analise-e-desenvolvimento-de-sistemas-tecnologia-ead">Anhembi Morumbi University</a>;
 - <b>I don't know why it took me so long! I'm loving!</b>
-
-
 
 ## University and Courses
 
