@@ -36,7 +36,7 @@
 <a target="_blank" href="https://portal.anhembi.br">
   <img src="https://loja.anhembionline.com.br/media/logo/stores/7/ANHEMBI.png" width="180" height="50" img align="center" /></a>
 
-<a href="https://web.dio.me/track/gft-start-3-net?tab=path">
+<a href="https://www.dio.me/bootcamp/gft-start-3-java?utm_source=sm-organico-grupo-bc-gft-start-3-java&utm_medium=organic&utm_campaign=gft">
   <img src="https://github.com/cguiama/cguiama/blob/main/3facb943-9a95-4c47-baa2-885fddf5f87f.png" width="65" height="60" img align="center" />
 </a>
 </p>
