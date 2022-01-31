@@ -1,8 +1,8 @@
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Hello there! Welcome to my Github
 
 - I have been working with <a target="_blank" href="https://www.behance.net/inside3d" target="_blank"> Archviz </a> for the last 10 years. I've been interested in learn code since 2018 , so I decided to finally change my career in 2022 and started studying.
-- Learning JavaScript, C and Java at <a target="_blank" href="https://www.alura.com.br/" target="_blank">Alura</a>.
-- Studying Systems Analysis and Development at <a target="_blank" href="https://loja.anhembionline.com.br/graduacao/analise-e-desenvolvimento-de-sistemas-tecnologia-ead">Anhembi Morumbi University</a>.
+- Learning Front-end && Back-end at <a target="_blank" href="https://www.alura.com.br/" target="_blank">Alura</a>.
+- Studying Systems Analysis and Development at <a target="_blank" href="https://www.mackenzie.br/graduacao/ead/tecnologia-em-analise-e-desenvolvimento-de-sistemas">Mackenzie University</a>.
 - <b>If I knew what I'm capable of, I would have started sooner!</b>
  </a>
 
@@ -36,8 +36,8 @@
 <a target="_blank" href="https://cursos.alura.com.br/user/cguiama/fullCertificate/35bd978d80d31cd5d78a195f80a8f294">
   <img src="https://i.pinimg.com/originals/49/72/6e/49726e65f6b35c2e8e366a16c0734fb7.png" width="80" height="50" img align="center" /></a>
 
-<a target="_blank" href="https://portal.anhembi.br">
-  <img src="https://loja.anhembionline.com.br/media/logo/stores/7/ANHEMBI.png" width="180" height="50" img align="center" /></a>
+<a target="_blank" href="https://www.mackenzie.br/">
+  <img src="https://logodownload.org/wp-content/uploads/2017/09/mackenzie-logo-3.png" width="50" height="50" img align="center" /></a>
 
 <a href="https://www.dio.me/bootcamp/gft-start-3-java?utm_source=sm-organico-grupo-bc-gft-start-3-java&utm_medium=organic&utm_campaign=gft">
   <img src="https://github.com/cguiama/cguiama/blob/main/3facb943-9a95-4c47-baa2-885fddf5f87f.png" width="65" height="60" img align="center" />
