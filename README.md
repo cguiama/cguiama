@@ -45,7 +45,11 @@
 </p>
  
 ## Contact me here:
-  
+<p>  
 <a target="_blank" href="https://www.linkedin.com/in/cguiama/">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+ </a>
+<a target="_blank" href="https://github.com/cguiama">
+<img src="https://github.com/cguiama/cguiama/blob/main/iconmonstr-github-1.png" width="30" height="30">
+ </a>
 </p>
