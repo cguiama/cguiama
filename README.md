@@ -38,11 +38,12 @@
     
 ## Courses and University:
 
-<p align="left">
+<p>
  <a target="_blank" href="https://cursos.alura.com.br/user/cguiama/fullCertificate/35bd978d80d31cd5d78a195f80a8f294">
   <img src="https://i.pinimg.com/originals/49/72/6e/49726e65f6b35c2e8e366a16c0734fb7.png" width="80" height="50" img align="center" />
  </a>
-
+ </p>
+ <p>
  <a target="_blank" href="https://www.mackenzie.br/">
   <img src="https://logodownload.org/wp-content/uploads/2017/09/mackenzie-logo-3.png" width="50" height="50" img align="center" />
  </a>
@@ -52,8 +53,10 @@
 <p>  
 <a target="_blank" href="https://www.linkedin.com/in/cguiama/">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
- </a>
+</a>
+</p>
+<p>
 <a target="_blank" href="https://github.com/cguiama">
 <img src="https://github.com/cguiama/cguiama/blob/main/iconmonstr-github-1.png" width="30" height="30">
- </a>
+</a>
 </p>
