@@ -57,6 +57,6 @@
 </p>
 <p>
 <a target="_blank" href="https://github.com/cguiama">
-<img src="https://github.com/cguiama/cguiama/blob/main/iconmonstr-github-1.png" width="30" height="30">
+<img src="https://github.com/cguiama/cguiama/blob/main/iconmonstr-github-1.png" width="50" height="50">
 </a>
 </p>
