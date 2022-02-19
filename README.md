@@ -6,7 +6,7 @@
 - <b>If I knew what I'm capable of, I would have started sooner!</b>
  </a>
 
- ## Currently Learning:
+ ## Languages:
  <div style="display: inline_block">
    <a target="_blank" href="https://github.com/cguiama?tab=repositories">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="40" img align="center" />
