@@ -7,18 +7,24 @@
  </a>
 
  ## Currently Learning:
+ <div style="display: inline_block">
    <a target="_blank" href="https://github.com/cguiama?tab=repositories">
-   <div style="display: inline_block">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="40" img align="center" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="40" img align="center" />
-    <a href="https://github.com/cguiama/C-lang">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="50" height="40" img align="center" />
-     <a href="https://github.com/cguiama/html">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="40" img align="center" />
-    <a href="https://github.com/cguiama/jsinicio">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="40" img align="center" /> 
-   <a href="https://github.com/cguiama/javabydio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="50" height="40" img align="center" /></a>
-
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="40" img align="center" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="40" img align="center" />
+   <a href="https://github.com/cguiama/C-lang">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="50" height="40" img align="center" />
+   </a>
+   <a href="https://github.com/cguiama/Alura-HTML-Iniciante">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="40" img align="center" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="40" img align="center"  />
+   </a>
+   <a href="https://github.com/cguiama/jsinicio">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="40" img align="center" /> 
+   </a>
+   <a href="https://github.com/cguiama/javabydio">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="50" height="40" img align="center" />
+   </a>
+ </div>
 
 <p>
 <div>
@@ -33,15 +39,13 @@
 ## Courses and University:
 
 <p align="left">
-<a target="_blank" href="https://cursos.alura.com.br/user/cguiama/fullCertificate/35bd978d80d31cd5d78a195f80a8f294">
-  <img src="https://i.pinimg.com/originals/49/72/6e/49726e65f6b35c2e8e366a16c0734fb7.png" width="80" height="50" img align="center" /></a>
+ <a target="_blank" href="https://cursos.alura.com.br/user/cguiama/fullCertificate/35bd978d80d31cd5d78a195f80a8f294">
+  <img src="https://i.pinimg.com/originals/49/72/6e/49726e65f6b35c2e8e366a16c0734fb7.png" width="80" height="50" img align="center" />
+ </a>
 
-<a target="_blank" href="https://www.mackenzie.br/">
-  <img src="https://logodownload.org/wp-content/uploads/2017/09/mackenzie-logo-3.png" width="50" height="50" img align="center" /></a>
-
-<a href="https://www.dio.me/bootcamp/gft-start-3-java?utm_source=sm-organico-grupo-bc-gft-start-3-java&utm_medium=organic&utm_campaign=gft">
-  <img src="https://github.com/cguiama/cguiama/blob/main/3facb943-9a95-4c47-baa2-885fddf5f87f.png" width="65" height="60" img align="center" />
-</a>
+ <a target="_blank" href="https://www.mackenzie.br/">
+  <img src="https://logodownload.org/wp-content/uploads/2017/09/mackenzie-logo-3.png" width="50" height="50" img align="center" />
+ </a>
 </p>
  
 ## Contact me here:
