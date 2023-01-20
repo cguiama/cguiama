@@ -26,15 +26,15 @@
    </a>
  </div>
 
-<p>
-<div>
-  <a target="_blank" href="https://www.linkedin.com/in/guilherme-castro-dev/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cguiama&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  </a>
-   <a href="https://github.com/cguiama?tab=repositories"> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cguiama&theme=blue-green&hide_langs_below=1" />
-</div>
-</a>
+><p>
+><div>
+>  <a target="_blank" href="https://www.linkedin.com/in/guilherme-castro-dev/">
+>  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cguiama&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+>  </a>
+>   <a href="https://github.com/cguiama?tab=repositories"> 
+>  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cguiama&theme=blue-green&hide_langs_below=1" />
+></div>
+></a>
     
 ## Courses and University:
 
