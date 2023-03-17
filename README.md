@@ -36,8 +36,8 @@
  </a>
  </p>
  <p>
- <a target="_blank" href="https://www.mackenzie.br/">
-  <img src="https://logodownload.org/wp-content/uploads/2017/09/mackenzie-logo-3.png" width="50" height="50" img align="center" />
+ <a target="_blank" href="https://www.42sp.org.br">
+  <img src="[https://logodownload.org/wp-content/uploads/2017/09/mackenzie-logo-3.png](https://cdn.greatsoftwares.com.br/arquivos/paginas/7460-069a1f4f8b36e2f74a9525cd6e009e94.png)" width="50" height="50" img align="center" />
  </a>
 </p>
  
