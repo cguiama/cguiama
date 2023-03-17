@@ -31,13 +31,9 @@
 ## Courses and University:
 
 <p>
- <a target="_blank" href="https://cursos.alura.com.br/user/cguiama/fullCertificate/35bd978d80d31cd5d78a195f80a8f294">
-  <img src="https://i.pinimg.com/originals/49/72/6e/49726e65f6b35c2e8e366a16c0734fb7.png" width="80" height="50" img align="center" />
- </a>
- </p>
  <p>
  <a target="_blank" href="https://www.42sp.org.br">
-  <img src="https://cdn.greatsoftwares.com.br/arquivos/paginas/7460-069a1f4f8b36e2f74a9525cd6e009e94.png" width="50" height="50" img align="center" />
+  <img src="https://imgbox.com/1e8qEJoB" width="50" height="50" img align="center" />
  </a>
 </p>
  
