@@ -31,7 +31,7 @@
 
 
     
-## Courses and University:
+<!--## Courses and University:
 
 <p>
  <p>
@@ -39,7 +39,7 @@
   <img src="https://thumbs2.imgbox.com/2a/7b/1e8qEJoB_t.png" width="50" height="50" img align="center" />
  </a>
 </p>
- 
+ -->
 ## Contact me here:
 <p>  
 <a target="_blank" href="https://www.linkedin.com/in/cguiama/">
