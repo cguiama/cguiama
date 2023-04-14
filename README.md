@@ -1,7 +1,7 @@
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Hello there!<br>Welcome to my Github
 
 - I have been working with <a target="_blank" href="https://www.behance.net/inside3d" target="_blank"> Archviz </a> for the last 10 years. I've been interested in learn code since 2018 , so I decided to finally change my career in 2022 and started studying.
-- Studying software engineering at <a target="_blank" href="https://www.42sp.org.br/">Escola 42 - SP</a>.
+<!-- - Studying software engineering at <a target="_blank" href="https://www.42sp.org.br/">Escola 42 - SP</a>.-->
 - <b>If I knew what I'm capable of, I would have started sooner!</b>
  </a>
  <br>
