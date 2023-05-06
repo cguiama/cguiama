@@ -28,6 +28,7 @@ If you are looking for a motivated and dedicated front-end developer, do not hes
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="50" height="40" img align="center" />
    </a>
  </div>
+ 
 ## Contact me here:
 <p>  
 <a href="https://www.linkedin.com/in/cguiama/" target="_blank">
