@@ -1,10 +1,13 @@
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Hello there!<br>Welcome to my Github
 
-- I have been working with <a href="https://www.behance.net/inside3d" target="_blank"> Archviz </a> for the last 10 years. I've been interested in learn code since 2018 , so I decided to finally change my career in 2022 and started studying.
+<!-- - I have been working with <a href="https://www.behance.net/inside3d" target="_blank"> Archviz </a> for the last 10 years. I've been interested in learn code since 2018 , so I decided to finally change my career in 2022 and started studying. -->
+- Hello, my name is Guilherme and I am a technology enthusiast, I have over 10 years of experience in the field of <a href="https://www.behance.net/inside3d" target="_blank">architectural visualization</a>, working on projects for construction companies and large architecture firms.
+<br><br>My experience in architectural visualization has helped me develop strong analytical skills and attention to detail, which I now apply as a developer.<br>
+I am looking for a company that can provide me with a learning and professional growth environment, where I can contribute with my knowledge and skills.<br>If you are looking for a motivated and dedicated front-end developer, do not hesitate to contact me.<br>
+<br>
 <!-- - Studying software engineering at <a target="_blank" href="https://www.42sp.org.br/">Escola 42 - SP</a>.-->
-- <b>If I knew what I'm capable of, I would have started sooner!</b>
+<!-- - <b>If I knew what I'm capable of, I would have started sooner!</b> -->
  </a>
- <br>
 
 <div align="left">
 
