@@ -35,8 +35,3 @@ If you are looking for a motivated and dedicated front-end developer, do not hes
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
-<p>
-<a href="https://github.com/cguiama" target="_blank">
-<img src="https://github.com/cguiama/cguiama/blob/main/iconmonstr-github-1.png" width="50" height="50">
-</a>
-</p>
