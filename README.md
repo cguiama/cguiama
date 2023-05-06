@@ -1,6 +1,6 @@
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Hello there!<br>Welcome to my Github
 
-- I have been working with <a target="_blank" href="https://www.behance.net/inside3d" target="_blank"> Archviz </a> for the last 10 years. I've been interested in learn code since 2018 , so I decided to finally change my career in 2022 and started studying.
+- I have been working with <a href="https://www.behance.net/inside3d" target="_blank"> Archviz </a> for the last 10 years. I've been interested in learn code since 2018 , so I decided to finally change my career in 2022 and started studying.
 <!-- - Studying software engineering at <a target="_blank" href="https://www.42sp.org.br/">Escola 42 - SP</a>.-->
 - <b>If I knew what I'm capable of, I would have started sooner!</b>
  </a>
@@ -15,16 +15,16 @@
 
  ## Languages:
  <div style="display: inline_block">
-   <a target="_blank" href="https://github.com/cguiama?tab=repositories">
+   <a href="https://github.com/cguiama?tab=repositories" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="40" img align="center" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="40" img align="center" />
    <a href="https://github.com/cguiama/C-lang">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="50" height="40" img align="center" />
     </a>
-   <a href="https://github.com/cguiama/jsinicio">
+   <a href="https://github.com/cguiama/jsinicio" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="40" img align="center" /> 
    </a>
-   <a href="https://github.com/cguiama/javabydio">
+   <a href="https://github.com/cguiama/javabydio" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="50" height="40" img align="center" />
    </a>
  </div>
@@ -42,12 +42,12 @@
  -->
 ## Contact me here:
 <p>  
-<a target="_blank" href="https://www.linkedin.com/in/cguiama/">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+<a href="https://www.linkedin.com/in/cguiama/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
 <p>
-<a target="_blank" href="https://github.com/cguiama">
+<a href="https://github.com/cguiama" target="_blank">
 <img src="https://github.com/cguiama/cguiama/blob/main/iconmonstr-github-1.png" width="50" height="50">
 </a>
 </p>
