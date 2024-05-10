@@ -1,8 +1,8 @@
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Hello there!<br>Welcome to my Github
 
-- I am a technology enthusiast, I have over 10 years of experience in the field of <a href="https://www.behance.net/inside3d" target="_blank">architectural visualization</a>, working on projects for construction companies and large architecture firms.
-<br><br>My experience in architectural visualization has helped me develop strong analytical skills and attention to detail, which I now apply as a developer.<br><br>
-If you are looking for a motivated and dedicated front-end developer, do not hesitate to contact me.<br>
+- I am a technology enthusiast, I have over 10 years of experience with <a href="https://www.behance.net/inside3d" target="_blank">architectural visualization</a>, working on projects for real estate companies and large architecture firms.
+<br><br>My experience in architectural visualization has helped me develop analytical skills and attention to details, which I now apply as a developer.<br><br>
+If you are looking for a dedicated front-end developer, do not hesitate to contact me.<br>
 <br>
  </a>
 
