@@ -1,10 +1,17 @@
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Hello there!<br>Welcome to my Github
 
-I am a trainee developer at **Viceri-Seidor**, where I am in an exciting process of learning and growth. <br>Currently, I am focused on improving my programming skills using **.NET Framework** and **C#**.
+Hey there! 👋 I'm Guilherme, a Full Stack Developer passionate about building cool stuff with Java + Spring Boot, .NET, and Angular.
 
-Here, you will find my projects and repositories, which reflect my progress and dedication to developing effective and innovative solutions. I am open to collaborations and feedback, so feel free to explore and contribute.
+Right now, I'm at Viceri Seidor, working on applications for a major Spanish insurance company—balancing modern tech with some classic ASP legacy systems (yes, it’s as fun as it sounds!).
+
+My tech journey started when I was 16, tinkering with computers and fixing hardware (basically, I was the young Anakin of PC repair 🛠️). Over the years, I’ve worn many hats—from telemarketing to 3D architectural design—but coding stole my heart. I made the leap into software development, and I haven’t looked back since.
+
+I’m all about writing clean, efficient code and learning new ways to solve problems. When I’m not coding, I’m probably exploring new tech or gaming 🎮, diving into software architecture, or brainstorming how to make things work better (especially while bathing 🛁—ideas just flow better there!).
+
+Feel free to explore my projects here—I’m always open to feedback, collaborations, or just a good tech chat.
 
 Thank you for visiting!
+May the code be with you! 🚀✨
  ## Skills
  <div style="display: inline_block">
    <a href="https://github.com/cguiama?tab=repositories" target="_blank">
