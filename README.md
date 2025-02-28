@@ -8,25 +8,28 @@ Thank you for visiting!
  ## Skills
  <div style="display: inline_block">
    <a href="https://github.com/cguiama?tab=repositories" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="40" img align="center" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="40" img align="center" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" img align="center" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"img align="center" />
    </a>
-   <a href="https://github.com/cguiama/DIO/tree/main/dotnet">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width="50" height="40" img align="center" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="50" height="40" img align="center"/>
+   <a href="https://github.com/cguiama/ViceriTeste target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width="50" img align="center" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="50" img align="center"/>
    </a>
-  <a href="https://github.com/cguiama/bikcraft">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="40" img align="center"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="40" img align="center" />
+  <a href="https://github.com/cguiama/DecolaTech2025" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" img align="center"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="48" img align="center" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="70" img align="center" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" img align="center" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" img align="center" />
   </a>
-          
+  <a href="https://github.com/cguiama/bikcraft">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" img align="center"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" img align="center" />
+  </a>
  </div>
- 
-
 <div align="left">
 <BR>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cguiama&show_icons=false&theme=nord&hide=contribs&bg_color=00000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cguiama&theme=nord&layout=compact&bg_color=00000000)
 
 </div>
