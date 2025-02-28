@@ -1,6 +1,6 @@
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Hello there!<br>Welcome to my Github
+## Hey there 👋<br>Welcome to my Github
 
-Hey there! 👋 I'm Guilherme, a **Full Stack Developer** and a padawan in training with **Java** + **Spring Boot**, **.NET**, and **Angular**.
+I'm Guilherme, a **Full Stack Developer** and a padawan in training with **Java** + **Spring Boot**, **.NET**, and **Angular**.
 
 Right now, I'm at Viceri Seidor, working on applications for a major Spanish insurance company, balancing modern tech with some **classic ASP** legacy systems (yes, it’s as fun as it sounds!).
 
