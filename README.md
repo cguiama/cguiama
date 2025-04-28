@@ -1,8 +1,8 @@
 ## Hey there 👋<br>Welcome to my Github
 
-I'm Guilherme, a **Full Stack Developer** and a padawan in training with **Java** + **Spring Boot**, **.NET**, and **Angular**.
+I'm Guilherme, a **Full Stack Developer** and a padawan in training with **.NET**, and **Angular**.
 
-Right now, I'm at Viceri Seidor, working on applications for a major Spanish insurance company, balancing modern tech with some **classic ASP** legacy systems (yes, it’s as fun as it sounds!).
+Right now, I'm working on an open source project focused on educational management and integration for Instituto Unibanco.
 
 My tech journey started when I was 16, tinkering with computers and fixing hardware (basically, I was the young Anakin of PC repair 🛠️).
 Over the years, I’ve worn many hats, from telemarketing to 3D architectural design, but coding stole my heart. I made the leap into software development, and **I haven’t looked back since**.
