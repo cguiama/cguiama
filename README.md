@@ -1,6 +1,6 @@
 ## Hey there 👋<br>Welcome to my Github
 
-I'm Guilherme, a **Full Stack Developer** and a padawan in training with **.NET**, and **Angular**.
+I'm Guilherme, a **Full Stack Software Engineer** and a padawan in training with **.NET**, and **Angular**.
 
 Right now, I'm working on an open source project focused on educational management and integration for Instituto Unibanco.
 
